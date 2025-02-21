@@ -50,5 +50,4 @@ This is a security bot for Discord designed to help protect your server from unw
 6. **License**: Indicates under what license the project is distributed.
 7. **Contact**: Information for users to contact you if they need help or want to report an issue.
 
-You can customize the README based on the specific features and functionality of your security bot. Let me know if you'd like any adjustments or further details!
 
