@@ -1,0 +1,2 @@
+# SDBot
+Security Discord Bot (SDB)
